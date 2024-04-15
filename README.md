@@ -35,7 +35,9 @@ Different variables can be modified within the program including:
 - X Interval
 
 With more modification, the algorithms used to solve wave propagation 
-can also be modified or replaced
+can also be modified or replaced.
+
+## Additional notes
 
 
 
